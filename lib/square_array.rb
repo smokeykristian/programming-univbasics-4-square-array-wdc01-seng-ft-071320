@@ -10,4 +10,5 @@ numbers = [9,10,16,25]
 numbers.length.times do |index|
   new_array.push(numbers[index] ** 2)
 end
+new_array
 end
